@@ -29,3 +29,5 @@ tree .
 │             └── normal
 └── requirements.txt
 ```
+
+This is just an example of using KNN, but it won't scale due to storing training data beyond thousands of images. See Parameterized learning.
