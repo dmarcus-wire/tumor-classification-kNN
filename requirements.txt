@@ -1,0 +1,9 @@
+jupyter
+scikit-learn
+imutils
+numpy
+argparse
+opencv-python
+opencv-contrib-python
+
+matplotlib
